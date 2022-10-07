@@ -1,5 +1,3 @@
-
-import './App.css';
 import './styles/style.css'
 import Homepage from './pages/Homepage';
 
