@@ -1,3 +1,5 @@
+![](https://github.com/meltem-fs/Image-gallery-with-React/blob/main/Animation.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
