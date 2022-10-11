@@ -1,6 +1,9 @@
 [click to see](https://vermillion-clafoutis-3b271e.netlify.app/)
 
-![](https://github.com/meltem-fs/Image-gallery-with-React/blob/main/Animation.gif)
+
+![Animation-img](https://user-images.githubusercontent.com/101893145/195176750-016a980e-b26d-465c-bab2-0ef43bef13cf.gif)
+
+
 
 # Getting Started with Create React App
 
